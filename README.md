@@ -1,3 +1,3 @@
 # Self-Organizing-Lists
 
-Linked lists created from letters and words to count their occurrences. List order is determined by three different heuistics: count, move-to-front, and transpose.
+Data structure - Linked Lists. Sort letters and words to count their total occurrences and frequency. List order is determined by three different heuristics: count, move-to-front, and transpose.
